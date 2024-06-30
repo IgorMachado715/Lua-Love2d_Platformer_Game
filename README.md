@@ -1,5 +1,5 @@
 # PLATFORMER GAME DEVELOPED IN LUA USING LOVE2D
-Here is a small project of a 2D platform game developed in lua, using love2D. It's a simple game concept made for learning and fun, feel free to play and modify the game to your liking.
+Here is a simple project of a 2D platform game developed in lua, using love2D. It's a simple game concept made for learning and fun, feel free to play and modify the game to your liking.
 
 The game can be played using the W,A,S,D and E keys to move and attack respectively.
 
